@@ -1,8 +1,9 @@
+
 # VITB-Digital-Wall
 
-# under-development!
+## Under-Development!
 
-# Welcome to **VITB-Digital-Wall** 🎉
+Welcome to **VITB-Digital-Wall** 🎉
 
 **VITB-Digital-Wall** is a platform to showcase the talent and creativity of students and faculty at VIT-B. It's a place where you can share your personal profiles, ongoing projects, and connect with others in the VIT-B community.
 
@@ -29,35 +30,33 @@ Contributing to **VITB-Digital-Wall** is simple and open to everyone:
 
 Here’s the breakdown of the folder structure:
 
+```
 VITB-Digital-Wall/
-├── README.md <-- Welcome + how to contribute
-├── CONTRIBUTORS.md <-- (Optional) auto-generated list
+├── README.md                      <-- Welcome + how to contribute
+├── CONTRIBUTORS.md                <-- (Optional) auto-generated list
 │
-├── contributors/ <-- 🧑‍🎓 Student profiles (Markdown files)
-│ ├── john-doe.md
-│ ├── priya-kumar.md
-│ └── template.md <-- Template for students
+├── contributors/                 <-- 🧑‍🎓 Student profiles (Markdown files)
+│   ├── john-doe.md
+│   ├── priya-kumar.md
+│   └── template.md               <-- Template for students
 │
-├── teachers/ <-- 👨‍🏫 Faculty profiles
-│ ├── dr-smitha.md
-│ └── template.md
+├── teachers/                     <-- 👨‍🏫 Faculty profiles
+│   ├── dr-smitha.md
+│   └── template.md
 │
-├── projects/ <-- 💡 Project descriptions (markdown only)
-│ ├── smart-attendance.md
-│ ├── budget-tracker.md
-│ └── template.md
+├── projects/                     <-- 💡 Project descriptions (markdown only)
+│   ├── smart-attendance.md
+│   ├── budget-tracker.md
+│   └── template.md
 │
-├── templates/ <-- 📄 All templates in one place
-│ ├── student-profile.md
-│ ├── faculty-profile.md
-│ └── project-summary.md
+├── templates/                    <-- 📄 All templates in one place
+│   ├── student-profile.md
+│   ├── faculty-profile.md
+│   └── project-summary.md
 │
 └── .github/
-└── workflows/ <-- (Optional: auto-formatting, PR checks, etc.)
-
-yaml
-Copy
-Edit
+    └── workflows/                <-- (Optional: auto-formatting, PR checks, etc.)
+```
 
 ---
 
