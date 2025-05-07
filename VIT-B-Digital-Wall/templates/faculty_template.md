@@ -1,7 +1,11 @@
-# 👨‍🏫 Faculty Profile Template
+# Hi, I’m YOUR_NAME_HERE! 🧑🏻‍🏫👩🏻‍🏫
 
-**Name:** 
-**Department:** 
-**Subjects:** 
-**Message to Students:** 
-**GitHub/LinkedIn (optional):**
+## A Teacher @ VIT BHOPAL UNIVERSITY
+
+## 🌟 About Me  
+- 🔭 **My Qualifications**: degree_1 , degree_2 .....  
+- 🌱 **My Expertises**: DevOps, AWS, and DS...
+- 
+
+## 🌐 Social Links  
+- LinkedIn: [NAME](https://linkedin.com/in/....YOUR_USERNAME....)  
