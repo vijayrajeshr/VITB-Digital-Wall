@@ -29,7 +29,7 @@ Contributing to **VITB-Digital-Wall** is simple and open to everyone:
 
 Here’s the breakdown of the folder structure:
 
-'''
+```
 VITB-Digital-Wall/
 ├── README.md <-- Welcome + how to contribute
 ├── CONTRIBUTORS.md <-- (Optional) auto-generated list
@@ -56,7 +56,7 @@ VITB-Digital-Wall/
 │ ├── student-profile.md
 │ ├── faculty-profile.md
 │ └── project-summary.md
-'''
+```
 
 
 ---
