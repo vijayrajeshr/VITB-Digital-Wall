@@ -1,6 +1,6 @@
 # VITB-Digital-Wall
 
-#under-development!
+# under-development!
 
 # Welcome to **VITB-Digital-Wall** 🎉
 
